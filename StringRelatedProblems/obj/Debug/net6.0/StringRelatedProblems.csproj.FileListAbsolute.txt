@@ -1,0 +1,15 @@
+D:\ConsoleApplications_07_01_2023\StringRelatedProblems\StringRelatedProblems\bin\Debug\net6.0\StringRelatedProblems.exe
+D:\ConsoleApplications_07_01_2023\StringRelatedProblems\StringRelatedProblems\bin\Debug\net6.0\StringRelatedProblems.deps.json
+D:\ConsoleApplications_07_01_2023\StringRelatedProblems\StringRelatedProblems\bin\Debug\net6.0\StringRelatedProblems.runtimeconfig.json
+D:\ConsoleApplications_07_01_2023\StringRelatedProblems\StringRelatedProblems\bin\Debug\net6.0\StringRelatedProblems.dll
+D:\ConsoleApplications_07_01_2023\StringRelatedProblems\StringRelatedProblems\bin\Debug\net6.0\StringRelatedProblems.pdb
+D:\ConsoleApplications_07_01_2023\StringRelatedProblems\StringRelatedProblems\obj\Debug\net6.0\StringRelatedProblems.csproj.AssemblyReference.cache
+D:\ConsoleApplications_07_01_2023\StringRelatedProblems\StringRelatedProblems\obj\Debug\net6.0\StringRelatedProblems.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApplications_07_01_2023\StringRelatedProblems\StringRelatedProblems\obj\Debug\net6.0\StringRelatedProblems.AssemblyInfoInputs.cache
+D:\ConsoleApplications_07_01_2023\StringRelatedProblems\StringRelatedProblems\obj\Debug\net6.0\StringRelatedProblems.AssemblyInfo.cs
+D:\ConsoleApplications_07_01_2023\StringRelatedProblems\StringRelatedProblems\obj\Debug\net6.0\StringRelatedProblems.csproj.CoreCompileInputs.cache
+D:\ConsoleApplications_07_01_2023\StringRelatedProblems\StringRelatedProblems\obj\Debug\net6.0\StringRelatedProblems.dll
+D:\ConsoleApplications_07_01_2023\StringRelatedProblems\StringRelatedProblems\obj\Debug\net6.0\refint\StringRelatedProblems.dll
+D:\ConsoleApplications_07_01_2023\StringRelatedProblems\StringRelatedProblems\obj\Debug\net6.0\StringRelatedProblems.pdb
+D:\ConsoleApplications_07_01_2023\StringRelatedProblems\StringRelatedProblems\obj\Debug\net6.0\StringRelatedProblems.genruntimeconfig.cache
+D:\ConsoleApplications_07_01_2023\StringRelatedProblems\StringRelatedProblems\obj\Debug\net6.0\ref\StringRelatedProblems.dll
